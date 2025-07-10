@@ -18,5 +18,4 @@ jobs:
         run: npm install
 
       - name: Run Unit Tests
-        run: npx jest  # or use: run: npx jest
-
+        run: npx jest
